@@ -1,36 +1,121 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hilink - Travel & Camping Landing Page
 
-## Getting Started
+A responsive travel and camping landing page UI built as a **practice project** while learning and improving my skills with **Next.js, React, TypeScript, and Tailwind CSS**.
 
-First, run the development server:
+This project focuses on building a modern outdoor adventure website with reusable components, responsive layouts, camping locations, adventure features, offline map concepts, hiking guidance, and app download sections.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔗 https://travel-app-ui-phi.vercel.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Responsive travel and camping landing page
+- Hero section with camping location information
+- Camping location showcase
+- Offline map support concept
+- Adventure scheduling
+- Augmented reality hiking guidance concept
+- New adventure locations every month
+- Customer review statistics
+- App download section for iOS and Android
+- Contact information section
+- Social media links
+- Responsive layout for different screen sizes
+- Reusable React components
+- Optimized images using Next.js `Image`
 
-## Learn More
+## 🛠️ Built With
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📚 What I Practiced
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Through this project, I practiced:
 
-## Deploy on Vercel
+- Building reusable React components
+- Creating layouts with Next.js
+- Using TypeScript with React components
+- Styling interfaces with Tailwind CSS
+- Creating responsive designs
+- Creating reusable button components
+- Building responsive navigation
+- Creating reusable camping location cards
+- Organizing project data using constants
+- Working with Next.js `Image`
+- Creating responsive layouts for different screen sizes
+- Building modern landing page sections
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📂 Main Sections
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🏠 Hero Section
+
+The landing section includes:
+
+- Camping location information
+- Main heading and description
+- Customer review statistics
+- Download App button
+- How We Work button
+- Location information
+- Distance and elevation details
+
+### ⛺ Camp Section
+
+The camp section showcases camping locations, including:
+
+- Putuk Truno Camp
+- Mountain View Camp
+- Number of people who have joined each adventure
+
+### 🧭 Guide Section
+
+The guide section highlights how the platform helps users navigate outdoor adventures with:
+
+- Offline map support concept
+- Hiking routes
+- Destination information
+- Start track information
+
+### ⚙️ Features Section
+
+The features section includes:
+
+- Offline maps
+- Adventure scheduling
+- Augmented reality technology
+- New locations every month
+
+### 📱 Get the App Section
+
+The app download section promotes the Hilink mobile application with download options for:
+
+- App Store
+- Google Play Store
+
+### 📞 Footer Section
+
+The footer includes:
+
+- Additional navigation links
+- Community links
+- Contact information
+- Social media links
+- Copyright information
+
+## 🎯 Project Purpose
+
+This is a **practice project** created to improve my frontend development skills and gain hands-on experience with:
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Component-based development
+- Responsive web design
+- Modern landing page development
+
+This project is part of my learning journey and may be improved and expanded over time.
